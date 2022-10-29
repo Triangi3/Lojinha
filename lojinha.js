@@ -1,23 +1,76 @@
 const Items =[
     {
      id: 0,
+     nome: "Brinco gatinho na lua",
+     img: "brinco1.jpg",
+     quantidade: 0
+    },
+    {
+     id: 1,
+     nome: "Brinco perolado",
+     img: "brinco2.jpg",
+     quantidade: 0
+    },
+    {
+     id: 2,
      nome: "Brinco dourado",
      img: "brinco3.jpg",
      quantidade: 0
     },
     {
-     id: 1,
-     nome: "Anel dourado com orelha",
-     img: "anel4.jpg",
+      id: 3,
+      nome: "Brinco gatinho com diamante",
+      img: "brinco4.jpg",
+      quantidade: 0
+     },
+     {id: 4,
+     nome: "Anel prata com diamante",
+     img: "anel1.jpg",
      quantidade: 0
     },
     {
-     id: 2,
-     nome: "Pingente dourado gravatinha",
-     img: "pingente3.jpg",
+     id: 5,
+     nome: "Anel prata com orelha",
+     img: "anel2.jpg",
      quantidade: 0
     },
-   
+    {
+     id: 6,
+     nome: "Anel dourado com diamante",
+     img: "anel3.jpg",
+     quantidade: 0
+    },
+    {
+      id: 7,
+      nome: "Anel dourado formato de gato",
+      img: "anel4.jpg",
+      quantidade: 0
+     },
+     {
+      id: 8,
+      nome: "Pingente ametista",
+      img: "pingente1.jpg",
+      quantidade: 0
+     },
+     {
+       id: 9,
+       nome: "Pingente couple|casal",
+       img: "pingente2.jpg",
+       quantidade: 0
+      },
+      {id: 10,
+      nome: "Pingente dourado gravatinha",
+      img: "pingente3.jpg",
+      quantidade: 0
+     },
+     {
+      id: 11,
+      nome: "Pingente prata",
+      img: "pingente4.jpg",
+      quantidade: 0
+     },
+    
+     
 
  ]
      
@@ -70,15 +123,6 @@ var links = document.getElementsByTagName("a");
    }
 
   
-
-
-
-
-
-
-
-
-
 
 
 
